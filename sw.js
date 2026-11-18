@@ -1,12 +1,11 @@
-const CACHE_NAME = 'road-to-85-v1';
+const CACHE_NAME = 'road-to-85-v2';
 const CORE_ASSETS = [
   './',
   './index.html',
   './Road_to_85.html',
   './manifest.webmanifest',
   './icons/apple-touch-icon.png',
-  './下场数据库.md',
-  './挥杆数据库.md'
+  './icons/icon-512.png'
 ];
 
 self.addEventListener('install', event => {
