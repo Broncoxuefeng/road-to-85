@@ -1,4 +1,4 @@
-const CACHE_NAME = 'road-to-85-v3';
+const CACHE_NAME = 'road-to-85-v4';
 const CORE_ASSETS = [
   './',
   './index.html',
